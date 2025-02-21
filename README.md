@@ -1,7 +1,7 @@
-# Aplikasi-Login-Dicoding
-Sebuah Aplikasi dengan Fitur Login
+# Aplikasi-Login
+Sebuah aplikasi dengan fitur login.
 
-Alur Fitur Login :
-1. Memasukkan Email dan Password
-2. Memvalidasi Masukan
-3. Menampilkan Halaman Home
+Alur Fitur Login:
+1. Memasukkan email dan password
+2. Memvalidasi masukan.
+3. Menampilkan halaman home.
